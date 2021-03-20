@@ -1,4 +1,4 @@
-# weather_assignment
+# Weather Assignment
 
 Assignment for Mobile Applications class
 
